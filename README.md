@@ -1,6 +1,7 @@
 # FEUPBot
 
 > A twitter bot that retweets every tweet about FEUP (i.e. hashtagged #feup)
+> See it running at: https://twitter.com/feupbot
 
 > Miguel Abreu
 > Copyright 2013
