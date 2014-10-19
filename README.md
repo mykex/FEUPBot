@@ -1,5 +1,5 @@
 # FEUPBot
-> Miguel Abreu, Copyright 2013
+> Miguel Abreu, 2013
 
 A twitter bot that retweets every tweet about FEUP (i.e. hashtagged #feup).
 
